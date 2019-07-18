@@ -24,14 +24,6 @@ This repo contains the code for BYOB Challenge: OCR De-noising.
  # Results
  * Localized text proposals on a pdf.
 <p align="center">
-<img src="./data/results/A7FX7D8H-1.jpg">
-</p>
-
-<p align="center">
-<img src="./data/results/A7FX7D8H-2.jpg">
-</p>
-
-<p align="center">
 <img src="./data/results/A7FX7D8H-3.jpg">
 </p>
  * Bounding box co-ordinates can be found in data/results/*.txt .
